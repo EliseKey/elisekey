@@ -1,10 +1,16 @@
 
-### ![Header](https://github.com/EliseKey/elisekey/blob/main/assets%20new/logo.PNG)
+# ![Header](https://github.com/EliseKey/elisekey/blob/main/assets%20new/logo.PNG)
 
-About me
+## Начинающий джуниор и будущий синьор в QA
 
-Testing Documentation
+### Testing Documentation
 
-Language and Tools
+* Checklists
+* Test-Cases
+* Bug-Reports
+* SQL Queries
+* Postman Collections
 
-Socials
+### Language and Tools
+
+### Socials
