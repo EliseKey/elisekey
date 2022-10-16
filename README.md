@@ -1,7 +1,9 @@
 
 # ![Header](https://github.com/EliseKey/elisekey/blob/main/assets%20new/logo.PNG)
 
-## ![Начинающий джуниор и будущий синьор в QA](https://i.gifer.com/8Q8N.gif)
+## Начинающий джуниор и будущий синьор в QA
+
+![gif](https://i.gifer.com/8Q8N.gif)
 
 ### Testing Documentation
 
