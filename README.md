@@ -3,7 +3,7 @@
 
 ## Начинающий джуниор и будущий синьор в QA
 
-![gif](https://i.gifer.com/8Q8N.gif)
+![gif](https://github.com/EliseKey/elisekey/blob/main/assets%20new/8Q8N.gifS)
 
 ### Testing Documentation
 
