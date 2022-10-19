@@ -11,7 +11,7 @@
 * ![Test-Cases](https://github.com/EliseKey/elisekey/blob/main/assets%20new/briefcase.png)  [Test-Cases](https://github.com/EliseKey/Test-Cases)
 * ![Bug-Reports](https://github.com/EliseKey/elisekey/blob/main/assets%20new/bug.png)[Bug-Reports](https://github.com/EliseKey/Bug-Reports/tree/master)
 * ![SQL Queries](https://github.com/EliseKey/elisekey/blob/main/assets%20new/database.png)[SQL Queries](https://github.com/EliseKey/SQL)
-* ![Postman Collections](https://github.com/EliseKey/elisekey/blob/main/assets%20new/post.png)[Postman Collections](https://github.com/EliseKey/Postman)
+* ![CharlesProxy](https://github.com/EliseKey/elisekey/blob/main/assets%20new/charles.png)[CharlesProxy](https://github.com/EliseKey/CharlesProxy)
 
 ### Language and Tools
 
