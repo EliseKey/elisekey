@@ -9,7 +9,7 @@
 
 * ![Checklists]()
 * ![Test-Cases]()
-* ![Bug-Reports]()
+* ![Bug-Reports](https://github.com/EliseKey/Bug-Reports/tree/master)
 * ![SQL Queries]()
 * ![Postman Collections]()
 
