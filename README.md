@@ -1,10 +1,9 @@
 
 # ![Header](https://github.com/EliseKey/elisekey/blob/main/assets%20new/logo.PNG)
 
-<h1 align="center">Начинающий джуниор и будущий синьор в QA
-<img src="https://github.com/EliseKey/elisekey/blob/main/assets%20new/680-it-developer-gradient.gif" height="2"/></h1>
+<h2 align="center">Начинающий джуниор и будущий синьор в QA<img src="https://github.com/EliseKey/elisekey/blob/main/assets%20new/680-it-developer-gradient.gif"> </h2>
 
-### ![Gif](https://github.com/EliseKey/elisekey/blob/main/assets%20new/8Q8N.gif)
+## ![Gif](https://github.com/EliseKey/elisekey/blob/main/assets%20new/8Q8N.gif)
 
 ### Testing Documentation
 
