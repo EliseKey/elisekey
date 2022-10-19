@@ -5,6 +5,8 @@
 
 ## ![Gif](https://github.com/EliseKey/elisekey/blob/main/assets%20new/developer-tester.gif)
 
+<img align="center" src="https://github.com/EliseKey/elisekey/blob/main/assets%20new/developer-tester.gif" height="55px">
+
 ### Testing Documentation
 
 * ![Checklists](https://github.com/EliseKey/elisekey/blob/main/assets%20new/check.png)  [Checklists](https://github.com/EliseKey/Checklist)
