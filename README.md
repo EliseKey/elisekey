@@ -3,7 +3,7 @@
 
 <center><h1 align="center">Начинающий джуниор и будущий синьор в QA<img src="https://github.com/EliseKey/elisekey/blob/main/assets%20new/680-it-developer-gradient.gif" height="55px"> </h1>
 
- <img src="https://github.com/EliseKey/elisekey/blob/main/assets%20new/developer-tester.gif"  width="500px" height="300px">  </center>
+ ## <img src="https://github.com/EliseKey/elisekey/blob/main/assets%20new/developer-tester.gif"  width="500px" height="300px">  </center>
 
 ### Testing Documentation
 
