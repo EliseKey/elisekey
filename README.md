@@ -29,4 +29,4 @@
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=bf377f)](https://www.instagram.com/_elisekey_)
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=1f7bf6)](https://t.me/elisekey)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseKey&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://elisekey-stats.vercel.app/api?username=EliseKey&show_icons=true&theme=dracula)
